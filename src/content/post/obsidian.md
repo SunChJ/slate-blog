@@ -5,7 +5,7 @@ tags:
   - Obsidian
   - Astro
 pubDate: 2025-11-21
-draft: true
+draft: false
 ---
 ![](images/jump-cat.png)
 *Photo by [Duc Van](https://unsplash.com/@duke91?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
@@ -15,3 +15,7 @@ draft: true
 
 ## 轻轻一跃
 挂载在 Cloudflare Pages 上，Obsidian 通过 Shift+Cmd+S 就能快速发布到云端。
+
+### Tips:
+新文章第一次发布，需要在 Cmd+T 的看板上选择 Published：
+![](images/publish-post.png)
