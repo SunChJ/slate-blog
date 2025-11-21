@@ -12,6 +12,8 @@ views:
     filters:
       and:
         - file.folder.startsWith("post")
+    order:
+      - file.name
     imageFormat: cover
     titleProperty: note.title
     dateProperty: note.pubDate
@@ -23,3 +25,5 @@ views:
     showDraftStatus: true
     customizeNewButton: true
     fallbackToEmbeds: true
+  - type: table
+    name: View
