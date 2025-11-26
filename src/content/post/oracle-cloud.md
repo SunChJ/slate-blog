@@ -1,5 +1,5 @@
 ---
-title: Oracle 使用日记
+title: "解决 Oracle Cloud 端口问题"
 description: Oracle Cloud 对我来说又是一个全新的平台
 tags:
   - Oracle
