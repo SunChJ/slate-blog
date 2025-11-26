@@ -5,6 +5,7 @@ tags:
   - Oracle
 pubDate: 2025-11-26
 draft: false
+image: ""
 ---
 ![](images/oracle.png)
 *Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
@@ -34,4 +35,4 @@ sudo iptables -P INPUT ACCEPT && sudo iptables -P FORWARD ACCEPT && sudo iptable
 ```
 
 ## 开始享用
-后续的使用已经不容易遇到因为端口引起的莫名其妙的问题了。
+后续的使用已经不容易遇到因为端口引起的莫名其妙的问题了。Have Fun！

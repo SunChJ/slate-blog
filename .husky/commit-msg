@@ -1,1 +1,12 @@
-npx --no -- commitlint --config commitlint.config.js --edit 
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Add common Node.js paths to PATH for Obsidian Git plugin
+export PATH="$PATH:/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin"
+
+# Add nvm paths if available
+if [ -s "$HOME/.nvm/nvm.sh" ]; then
+  . "$HOME/.nvm/nvm.sh"
+fi
+
+npx --no -- commitlint --config commitlint.config.js --edit
