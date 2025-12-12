@@ -9,7 +9,7 @@ pubDate: 2025-12-11
 draft: false
 ---
 ![](images/save-eyes.png)
-
+*Photo by [Bacila Vlad](https://unsplash.com/@bacila_vlad?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 ## 我的症状
 但凡长时间人没休息好&用眼过度，我的眼睛就会出现非常严重的复视症状： 看近处还好，5米开外，我的双眼就无法正常的聚焦到一起，看东西都是带重影的。
 
