@@ -1,6 +1,6 @@
 ---
 title: 好用的 Mac 清理工具 —— Mole
-description: 作为程序员，我的 Mac Mini 经常会遇到空间不足的问题。
+description: 作为程序员，我的 Mac Mini 经常会遇到空间不足的问题。hahaha
 tags:
   - Mac
   - App
