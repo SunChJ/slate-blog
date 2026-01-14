@@ -27,10 +27,13 @@ brew install --cask antigravity-tools
    打开成功后：
    ![](images/use-antigravity-tools-to-share-opus-quarto-2.png)
 ## Terminal环境&插件配置
+
 ANTHROPIC_AUTH_TOKEN&ANTHROPIC_BASE_URL来源：
+
 ![](images/use-antigravity-tools-to-share-opus-quarto-5.png)
 
 ### Terminal 环境
+
 sk-... 根据实际来配置比如上图的 sk-0f20247129c7429fa69a8d0b818c1643
 临时：
 ```bash
@@ -50,13 +53,18 @@ echo -e '\n export ANTHROPIC_BASE_URL=http://localhost:8045' >> ~/.zshrc
 ```
 
 ### VS Claude Code 插件配置
+
 依次如图点击：
 插件入口进设置：
+
 ![](images/use-antigravity-tools-to-share-opus-quarto-6.png)
+
 设置页进配置 json：
+
 ![](images/use-antigravity-tools-to-share-opus-quarto-7.png)
 
 json配置关键的配置项：
+
 ![](images/use-antigravity-tools-to-share-opus-quarto-8.png)
 ```json
 "claudeCode.preferredLocation": "panel",
