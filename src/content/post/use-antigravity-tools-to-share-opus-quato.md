@@ -4,12 +4,15 @@ description: 降低难度享受 Claude Code
 tags:
   - Antigravity
   - ClaudeCode
+  - OpenCode
+  - oh-my-opencode
 pubDate: 2026-01-14
 draft: false
 ---
 ![](images/use-antigravity-tools-to-share-opus-quarto.png)
 *Photo by [Matt Artz](https://unsplash.com/@mattartz?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
-## 安装 Antigravity Manager
+## Claude Code 配置
+### 安装 Antigravity Manager
 [GitHub - lbjlaq/Antigravity-Manager: 为 Antigravity 提供一键无缝账号切换功能。](https://github.com/lbjlaq/Antigravity-Manager)
 ```bash
 # 1. 订阅本仓库的 Tap
@@ -19,14 +22,14 @@ brew tap lbjlaq/antigravity-manager https://github.com/lbjlaq/Antigravity-Manage
 brew install --cask antigravity-tools
 ```
 
-## 登录&打开「API反代」
+### 登录&打开「API反代」
 1. 登录![](images/use-antigravity-tools-to-share-opus-quarto-1.png)
    登录成功后：
    ![](images/use-antigravity-tools-to-share-opus-quarto-3.png)
 2. 打开「API反代」![](images/Pasted%20image%2020260114161026.png)
    打开成功后：
    ![](images/use-antigravity-tools-to-share-opus-quarto-2.png)
-## Terminal环境&插件配置
+### Terminal环境&插件配置
 
 ANTHROPIC_AUTH_TOKEN&ANTHROPIC_BASE_URL来源：
 
@@ -123,7 +126,7 @@ json配置关键的配置项：
 ```
 
 
-## 体验 Google 的 Opus 额度
+### 体验 Google 的 Opus 额度
  `claude` 启动!!!
 
 
