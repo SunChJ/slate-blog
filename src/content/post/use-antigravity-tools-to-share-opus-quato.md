@@ -257,3 +257,16 @@ OpenCode 的 glm-4.7-free 不是很稳定，可以替换 OpenRouter中的免费�
 }
 
 ```
+
+### 使用 OpenCode
+oh-my-opencode 需要使用 `ulw` 关键词触发满血状态来处理复杂问题。
+打开应该长这样：
+![](images/use-antigravity-tools-to-share-opus-quato.png)
+
+
+输入 `/models` 应该能看到配置的 Antigravity Tools 里的模型：
+![](images/use-antigravity-tools-to-share-opus-quato-1.png)
+
+
+输入`/status` 应该长这样：
+![](images/use-antigravity-tools-to-share-opus-quato-2.png)
